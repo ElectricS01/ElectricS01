@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ElectricS01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ElectricS01/ElectricS01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Discord: <a href="https://discord.com/users/691540630907781171">Electric S01#5197</a><br>
+Twitter: <a href="https://twitter.com/S01Electric">@S01Electric</a><br>
+Youtube: <a href="https://www.youtube.com/electrics01">Electric S01</a><br>
+Itch.io: <a href="https://electrics01.itch.io/">Electric S01</a><br>
