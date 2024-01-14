@@ -1,3 +1,4 @@
+![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -29,4 +30,4 @@ Email: <a href="mailto:electrics01@electrics01.com">electrics01@electrics01.com<
 Website: <a href="https://electrics01.com">ElectricS01.com</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElectricS01&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricS01&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricS01&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
